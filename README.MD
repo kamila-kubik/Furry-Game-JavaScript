@@ -37,7 +37,7 @@ and many more.
 ## Usage
 To start using this game, just download whole content and in console/terminal go to "db" directory and run: 
 
- ./node_modules/.bin/webpack 
+json-server --watch furry.json
  
 to connect to the server, than run index.html file. Enjoy! Try to bit the best score ;)
  
@@ -58,7 +58,7 @@ Board
 Game On
 ![FurryGame - GameOn](./images/Furry_GameOn.png)
 Game Over
-![FurryGame - GameOver](./images/Board_Game_Over.png)
+![FurryGame - GameOver](./images/Game%20Over%20Furry.png)
 
 Icons are from website: https://www.iconfinder.com/
 
