@@ -35,11 +35,13 @@ JavaScript:
 and many more.
 
 ## Usage
-To start using this game, just download whole content and in console/terminal go to "db" directory and run: 
+To start using this game, just download whole content, in console/terminal run npm install, then go to "db" directory and run: 
 
 json-server --watch furry.json
  
-to connect to the server, than run index.html file. Enjoy! Try to bit the best score ;)
+to connect to the server, than run index.html file or click here: https://kotem84.github.io/Furry-Game-JavaScript/ (this page doesn't save your score).
+
+Enjoy! Try to bit the best score ;)
  
  ## Game rules
  Furry gets bitcoins. He wants to have them as much as possible. To pleasure Furry you have to try be the best. The heighest score is 
