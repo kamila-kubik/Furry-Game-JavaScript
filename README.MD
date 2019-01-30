@@ -41,7 +41,7 @@ json-server --watch furry.json
  
 to connect to the server and at the end run index.html file or simply click here: https://kotem84.github.io/Furry-Game-JavaScript/ (but this page doesn't save the best score).
 
-Enjoy! Try to bit the best score ;)
+Enjoy! Try to beat the best score ;)
  
  ## Game rules
  Furry gets bitcoins. He wants to have them as much as possible. To pleasure Furry you have to try be the best. The heighest score is 
