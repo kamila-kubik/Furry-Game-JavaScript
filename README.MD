@@ -35,11 +35,11 @@ JavaScript:
 and many more.
 
 ## Usage
-To start using this game, just download whole content, in console/terminal run npm install, then go to "db" directory and run: 
+To start using this game, just download whole content, then in console/terminal run npm install, afterwards go to "db" directory and run: 
 
 json-server --watch furry.json
  
-to connect to the server, than run index.html file or click here: https://kotem84.github.io/Furry-Game-JavaScript/ (this page doesn't save your score).
+to connect to the server and at the end run index.html file or simply click here: https://kotem84.github.io/Furry-Game-JavaScript/ (but this page doesn't save the best score).
 
 Enjoy! Try to bit the best score ;)
  
